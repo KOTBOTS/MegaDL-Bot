@@ -1,5 +1,5 @@
 # (c) Asm Safone
-# A Part of MegaDL-Bot <https://github.com/AsmSafone/MegaDL-Bot>
+# A Part of MegaDL-Bot <https://github.com/KOTBOTS/MegaDL-Bot>
 
 import os
 from config import Config
